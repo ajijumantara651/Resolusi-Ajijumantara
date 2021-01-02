@@ -1,4 +1,7 @@
 Rencana Pemrograman :
 - Belajar Javascript
+  * ES6
+  * Framework Javascript
 - Beljara PHP
+  * PHP Inthelphense
 - Belajar Vb.net
