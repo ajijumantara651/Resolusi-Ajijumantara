@@ -2,6 +2,7 @@ Rencana Pemrograman :
 - Belajar Javascript
   * ES6
   * Framework Javascript
+   # React
 - Beljara PHP
   * PHP Inthelphense
 - Belajar Vb.net
